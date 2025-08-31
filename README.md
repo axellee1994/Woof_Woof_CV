@@ -1,4 +1,4 @@
-# Dog_Vision_CV
+# Woof_Woof_CV
 
 End-to-end multi-class dog breed classification using TensorFlow 2.x and TensorFlow Hub. The main analysis and runnable pipeline are in the notebook: [Dog_Vision_CV.ipynb](Dog_Vision_CV.ipynb).
 
